@@ -8,7 +8,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC # Spark SQL
+# MAGIC # Spark SQL.
 # MAGIC
 # MAGIC Demonstrate fundamental concepts in Spark SQL using the DataFrame API.
 # MAGIC
